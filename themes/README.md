@@ -1,1 +1,1 @@
-# [imagestryht.ml/](https://imagestryht.ml)
+# [imagestryht.ml/themes](https://imagestryht.ml/themes)
