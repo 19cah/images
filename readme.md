@@ -1,7 +1,6 @@
 # tweet-something
 
 [![build](https://github.com/abranhe/tweet-something/actions/workflows/ci.yml/badge.svg)](https://github.com/abranhe/tweet-something/actions/workflows/ci.yml)
-[![Travis](https://travis-ci.com/abranhe/tweet-something.svg?branch=master)](https://travis-ci.com/abranhe/tweet-something)
 [![npm](https://img.shields.io/npm/v/tweet-something.svg?logo=npm)](https://npmjs.org/tweet-something)
 
 > Just because... I don't know
@@ -15,7 +14,7 @@ npm install tweet-something
 ## Usage
 
 ```js
-import tweetSomethig from "tweet-something";
+import tweetSomething from "tweet-something";
 
 (async () => {
 	const config = {
@@ -25,7 +24,7 @@ import tweetSomethig from "tweet-something";
 		ct0: "*************",
 	};
 
-	await tweetSomethig(config);
+	await tweetSomething(config);
 	// tweet sent
 })();
 ```

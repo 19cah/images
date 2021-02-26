@@ -1,7 +1,7 @@
 {
   "name": "tweet-something",
   "description": "Tweet without limits",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0",
   "main": "index.js",
   "repository": "abranhe/tweet-something",
   "author": {
