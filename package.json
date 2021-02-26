@@ -1,12 +1,36 @@
 {
   "name": "tweet-something",
+  "description": "Tweet without limits",
   "version": "1.0.0-alpha",
   "main": "index.js",
-  "repository": "https://github.com/abranhe/tweet-something.git",
-  "author": "Abraham Hernandez <abraham@abranhe.com>",
+  "repository": "abranhe/tweet-something",
+  "author": {
+    "name": "Abraham Hernandez",
+    "email": "abraham@abranhe.com",
+    "url": "https://abranhe.com"
+  },
   "license": "MIT",
+  "scripts": {
+    "test": "xo"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "twitter",
+    "tweet"
+  ],
   "dependencies": {
     "axios": "^0.21.1",
     "query-string": "^6.14.0"
+  },
+  "devDependencies": {
+    "xo": "^0.24.0"
+  },
+  "xo": {
+    "rules": {
+      "camelcase": 0,
+      "no-return-await": 0
+    }
   }
 }
