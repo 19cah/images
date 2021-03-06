@@ -1,7 +1,4 @@
-# tweet-something
-
-[![build](https://github.com/abranhe/tweet-something/actions/workflows/ci.yml/badge.svg)](https://github.com/abranhe/tweet-something/actions/workflows/ci.yml)
-[![npm](https://img.shields.io/npm/v/tweet-something.svg?logo=npm)](https://npmjs.org/tweet-something)
+# tweet-something [![build](https://github.com/abranhe/tweet-something/actions/workflows/ci.yml/badge.svg)](https://github.com/abranhe/tweet-something/actions/workflows/ci.yml) [![npm](https://img.shields.io/npm/v/tweet-something.svg?logo=npm)](https://npmjs.org/tweet-something)
 
 > Just because... I don't know
 
